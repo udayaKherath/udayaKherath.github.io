@@ -1,8 +1,9 @@
 # Udaya Herath
 
-**Associate Data Analyst | Machine Learning Engineer | Data Science Enthusiast**
+<p><strong>Associate Data Analyst | Machine Learning Engineer | Data Science Enthusiast</strong></p>
 
-📍 Kolonnawa, Sri Lanka  
+
+📍 Rajagiriya, Sri Lanka  
 📧 udayakumaraherath8@gmail.com  
 📱 +94 77 5641538  
 🔗 [LinkedIn](https://www.linkedin.com/in/udayakherath) | [GitHub](https://github.com/udayaKherath)
