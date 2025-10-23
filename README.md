@@ -12,9 +12,13 @@
 
 ## 👋 About Me
 
+<p align="justify">
 I am a data science professional with a strong foundation in machine learning, predictive modeling, and business intelligence. With hands-on experience in building end-to-end data solutions—from ETL pipelines to AI-powered applications—I specialize in transforming complex data into actionable insights that drive business value.
+</p>
 
+<p align="justify">
 My expertise spans across developing credit management systems, building ML models for customer behavior prediction, and creating interactive dashboards that enhance decision-making. I'm passionate about leveraging cutting-edge technologies including LLMs, deep learning frameworks, and cloud platforms to solve real-world business challenges.
+</p>
 
 ---
 
