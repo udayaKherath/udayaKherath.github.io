@@ -37,7 +37,7 @@ My expertise spans across developing credit management systems, building ML mode
 ### Associate Data Analyst
 
 **Browns & Company** | *June 2024 - Present*
-- <p align="justify">Developed an interactive **Power BI dashboard** to track debtor performance across divisions, using complex Power Query transformations and key metrics. Achieved a **50% increase in user productivity** by eliminating manual report generation and reducing Excel-based workflows for the division's invoicing team and C-level managers.</p>
+- <p align="justify">Developed an interactive <strong>Power BI dashboard</strong>strong> to track debtor performance across divisions, using complex Power Query transformations and key metrics. Achieved a **50% increase in user productivity** by eliminating manual report generation and reducing Excel-based workflows for the division's invoicing team and C-level managers.</p>
 
 - <p align="justify">Developed a **machine learning model using LightGBM** to predict customer payment timelines, classifying orders into 45-60 days, 60-90 days, and 90+ days payment categories with **90% accuracy**. Enabled strategic inventory allocation by identifying creditworthy customers for limited stock products, optimizing cash flow and reducing payment delays through data-driven customer segmentation.</p>
 
