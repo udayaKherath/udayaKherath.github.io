@@ -39,12 +39,9 @@ My expertise spans across developing credit management systems, building ML mode
 **Browns & Company** | *June 2024 - Present*
 - <p align="justify">Developed an interactive **Power BI dashboard** to track debtor performance across divisions, using complex Power Query transformations and key metrics. Achieved a **50% increase in user productivity** by eliminating manual report generation and reducing Excel-based workflows for the division's invoicing team and C-level managers.</p>
 
-- <p align="justify">Developed a **machine learning model using LightGBM** to predict customer payment timelines, classifying orders into 45-60 days, 60-90 days, and 90+ days payment categories with **90% accuracy**.
-Enabled strategic inventory allocation by identifying creditworthy customers for limited stock products, optimizing cash flow and reducing payment delays through data-driven customer segmentation.</p>
+- <p align="justify">Developed a **machine learning model using LightGBM** to predict customer payment timelines, classifying orders into 45-60 days, 60-90 days, and 90+ days payment categories with **90% accuracy**. Enabled strategic inventory allocation by identifying creditworthy customers for limited stock products, optimizing cash flow and reducing payment delays through data-driven customer segmentation.</p>
 
-- <p align="justify">Built a comprehensive **credit portfolio management system** using multi-output regression and time series techniques to optimize customer credit limits and minimize risk exposure, aligned with **IFRS 9 requirements**.
-Developed an integrated forecasting pipeline including: macroeconomic factor prediction, customer delinquency bucket forecasting, payment rate prediction across time buckets, and credit limit optimization with PD and ECL calculations.
-Achieved significant results: **30% decrease in Expected Credit Loss (ECL)** and **20% increase in payment rates**, ensuring IFRS 9 compliance. Utilized **Microsoft Fabric** for ETL processes and model deployment, ensuring seamless data integration and scalable solution architecture.</p>
+- <p align="justify">Built a comprehensive **credit portfolio management system** using multi-output regression and time series techniques to optimize customer credit limits and minimize risk exposure, aligned with **IFRS 9 requirements**. Developed an integrated forecasting pipeline including: macroeconomic factor prediction, customer delinquency bucket forecasting, payment rate prediction across time buckets, and credit limit optimization with PD and ECL calculations. Achieved significant results: **30% decrease in Expected Credit Loss (ECL)** and **20% increase in payment rates**, ensuring IFRS 9 compliance. Utilized **Microsoft Fabric** for ETL processes and model deployment, ensuring seamless data integration and scalable solution architecture.</p>
 
 ---
 
@@ -52,7 +49,7 @@ Achieved significant results: **30% decrease in Expected Credit Loss (ECL)** and
 
 **Global Frontiers** | *December 2023 - June 2024*
 
-- <p align="justify">Designed and developed a **Strategy Planner Dashboard** to monitor and analyze company performance across different performance cycles, enabling data-driven decision-making.</p>p>
+- <p align="justify">Designed and developed a **Strategy Planner Dashboard** to monitor and analyze company performance across different performance cycles, enabling data-driven decision-making.</p>
 
 - <p align="justify">Built an **AI-powered chatbot** using Google Gemini LLM, LangChain, few-shot learning, and Python, enabling users to query the database using natural language and retrieve insights in real time.</p>
 
