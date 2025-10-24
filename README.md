@@ -74,8 +74,9 @@ Developed an end-to-end automated competitive intelligence platform that transfo
 **Technologies:** Python, Streamlit, Microsoft Fabric, Selenium, BeautifulSoup, Groq APIs, LangChain, Tavily API
 
 **Impact:** 80%+ reduction in manual competitive analysis time through complete workflow automation
-![Competitive Analysis System DB 1](/img/cas1.jpg)
 ![Competitive Analysis System DB 1](/img/cas2.jpg)
+![Competitive Analysis System DB 1](/img/cas1.jpg)
+
 
 ### Credit Management System
 Developed a comprehensive credit portfolio management system that optimizes customer credit limits and minimizes risk exposure. The system incorporates:
