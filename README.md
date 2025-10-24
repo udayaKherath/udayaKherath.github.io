@@ -57,6 +57,25 @@ My expertise spans across developing credit management systems, building ML mode
 
 ## 🚀 Featured Projects
 
+### AI-Powered Competitive Analysis System
+<p align="justify">
+Developed an end-to-end automated competitive intelligence platform that transforms competitor data into actionable business strategies. The system combines enterprise-grade data engineering with AI-driven analysis to deliver real-time market insights.
+</p>
+
+**Key Features:**
+- **Automated Data Collection:** Implemented intelligent web scraping using Selenium and BeautifulSoup to extract competitor information from multiple sources
+- **Enterprise Data Pipeline:** Built robust ETL workflows using Microsoft Fabric for reliable data processing and orchestration
+- **AI-Driven Insights:** Integrated Groq LLM APIs with LangChain to generate strategic recommendations tailored to local market conditions
+- **Interactive Dashboard:** Created a Streamlit application with three core modules:
+  - **Dashboard Tab:** Real-time visualization of competitive landscape, market share, pricing trends, and performance metrics
+  - **Product Tab:** Comprehensive product comparison, feature analysis, and pricing strategy insights
+  - **Analysis Tab:** LLM-powered competitive analysis, opportunity detection, and strategic recommendations
+
+**Technologies:** Python, Streamlit, Microsoft Fabric, Selenium, BeautifulSoup, Groq APIs, LangChain, Tavily API
+
+**Impact:** 80%+ reduction in manual competitive analysis time through complete workflow automation
+![Competitive Analysis System DB 1](/img/cas1.png)
+
 ### Credit Management System
 Developed a comprehensive credit portfolio management system that optimizes customer credit limits and minimizes risk exposure. The system incorporates:
 - Multi-output regression and time series forecasting techniques
