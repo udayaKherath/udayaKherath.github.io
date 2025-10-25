@@ -84,6 +84,7 @@ Developed a comprehensive credit portfolio management system that optimizes cust
 - Economic factor adjustment forecasting aligned with IFRS 9 standards
 - Integrated pipeline for macroeconomic predictions, delinquency forecasting, and ECL calculations
 - **Impact:** 30% reduction in Expected Credit Loss and 20% improvement in payment rates
+
 ![Project WOrkflow](/img/CMS.jpeg)
 
 ### Order Classification Model
