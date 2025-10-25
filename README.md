@@ -98,6 +98,7 @@ Created interactive Power BI dashboards featuring:
 - Complex Power Query transformations for multi-division debtor tracking
 - Real-time performance metrics and KPIs
 - **Impact:** 50% productivity increase through automation of manual reporting
+
 ![Debtor Analysis Dashboard](/img/db1.png)
 
 ### ML Pipeline for Hotel Reservation Prediction
@@ -106,6 +107,7 @@ Developed a complete production-ready ML pipeline featuring:
 - Model training with MLflow experiment tracking
 - Version control via GitHub
 - Automated CI/CD deployment using Jenkins to Google Cloud Run
+
 ![Project WOrkflow](/img/ML1.jpeg)
 
 ### Custom Language Models & RAG Applications
