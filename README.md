@@ -26,6 +26,7 @@
 **University of Colombo School of Computing (UCSC), Sri Lanka**  
 March 2026 – March 2028  
 *Focus: Machine Learning, Deep Learning & Intelligent Systems*
+
 ---
 
 ### BSc (Hons) in Data Science  
