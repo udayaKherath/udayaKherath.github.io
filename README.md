@@ -44,13 +44,13 @@ June 2024 – Present
 
 - <p align="justify">Re-architected a distributed <strong>machine learning</strong> pipeline on <strong>Microsoft Fabric</strong> using <strong>PySpark</strong>, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from <strong>22+ hours to 13 minutes</strong> for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.</p>
 
-- <p align="justify">Architected a **multi-agent AI credit decision system** combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.</p>
+- <p align="justify">Architected a <strong>multi-agent AI credit decision system</strong> combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.</p>
 
-- <p align="justify">Developed **invoice-level predictive models** to estimate customer payment timelines and delinquency risk using time-based validation to prevent data leakage. Applied domain-driven feature engineering using payment behavior, invoice characteristics, cheque return patterns, and settlement history.</p>
+- <p align="justify">Developed <strong>invoice-level predictive models</strong> to estimate customer payment timelines and delinquency risk using time-based validation to prevent data leakage. Applied domain-driven feature engineering using payment behavior, invoice characteristics, cheque return patterns, and settlement history.</p>
 
-- <p align="justify">Built **credit risk analytics dashboards in Power BI** to monitor receivables exposure, non-performing debt, and early warning indicators, enabling finance leadership to track debtor performance and improve collections visibility across divisions.</p>
+- <p align="justify">Built <strong>credit risk analytics dashboards in Power BI</strong> to monitor receivables exposure, non-performing debt, and early warning indicators, enabling finance leadership to track debtor performance and improve collections visibility across divisions.</p>
 
-- <p align="justify">Designed and optimized **T-SQL ETL pipelines** supporting sales analytics, receivables aging, settlement tracking, and credit risk reporting across enterprise data systems.</p>
+- <p align="justify">Designed and optimized <strong>T-SQL ETL pipelines</strong> supporting sales analytics, receivables aging, settlement tracking, and credit risk reporting across enterprise data systems.</p>
 
 ---
 
