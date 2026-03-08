@@ -126,6 +126,7 @@ Created interactive Power BI dashboards featuring:
 - **Impact:** 50% productivity increase through automation of manual reporting
 
 ![Debtor Analysis Dashboard](/img/db1.png)
+![ECL](/img/ecl.png)
 
 ### ML Pipeline for Hotel Reservation Prediction
 Developed a complete production-ready ML pipeline featuring:
