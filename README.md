@@ -44,14 +44,29 @@ January 2019 – January 2024
 
 ## 💼 Professional Experience
 
-### Associate Data Analyst
+### Data Scientist  
+**Browns & Company PLC, Sri Lanka**  
+June 2024 – Present
 
-**Browns & Company** | *June 2024 - Present*
-- <p align="justify">Developed an interactive <strong>Power BI dashboard</strong> to track debtor performance across divisions, using complex Power Query transformations and key metrics. Achieved a <strong>50% increase in user productivity</strong> by eliminating manual report generation and reducing Excel-based workflows for the division's invoicing team and C-level managers.</p>
+- <p align="justify">
+Re-architected a distributed **machine learning pipeline on Microsoft Fabric using PySpark**, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from **22+ hours to 13 minutes** for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.
+</p>
 
-- <p align="justify">Developed a <strong>machine learning model using LightGBM</strong> to predict customer payment timelines, classifying orders into 45-60 days, 60-90 days, and 90+ days payment categories with <strong>90% accuracy</strong>. Enabled strategic inventory allocation by identifying creditworthy customers for limited stock products, optimizing cash flow and reducing payment delays through data-driven customer segmentation.</p>
+- <p align="justify">
+Architected a **multi-agent AI credit decision system** combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.
+</p>
 
-- <p align="justify">Built a comprehensive <strong>credit portfolio management system</strong> using multi-output regression and time series techniques to optimize customer credit limits and minimize risk exposure, aligned with <strong>IFRS 9 requirements</strong>. Developed an integrated forecasting pipeline including: macroeconomic factor prediction, customer delinquency bucket forecasting, payment rate prediction across time buckets, and credit limit optimization with PD and ECL calculations. Achieved significant results: <strong>30% decrease in Expected Credit Loss (ECL)</strong> and <strong>20% increase in payment rates</strong>, ensuring IFRS 9 compliance. Utilized <strong>Microsoft Fabric</strong> for ETL processes and model deployment, ensuring seamless data integration and scalable solution architecture.</p>
+- <p align="justify">
+Developed **invoice-level predictive models** to estimate customer payment timelines and delinquency risk using time-based validation to prevent data leakage. Applied domain-driven feature engineering using payment behavior, invoice characteristics, cheque return patterns, and settlement history.
+</p>
+
+- <p align="justify">
+Built **credit risk analytics dashboards in Power BI** to monitor receivables exposure, non-performing debt, and early warning indicators, enabling finance leadership to track debtor performance and improve collections visibility across divisions.
+</p>
+
+- <p align="justify">
+Designed and optimized **T-SQL ETL pipelines** supporting sales analytics, receivables aging, settlement tracking, and credit risk reporting across enterprise data systems.
+</p>
 
 ---
 
