@@ -87,6 +87,19 @@ Developed an end-to-end automated competitive intelligence platform that transfo
 ![Competitive Analysis System DB 1](/img/cas1.jpg)
 
 
+### App Builder (Multi-agent System)
+## 🤖 How It Works
+
+- 🗺️ **Planner Agent** — Takes the user's natural language prompt and produces a structured `Plan` (Pydantic schema) defining the project title, tech stack, and list of files to generate
+- 🏛️ **Architect Agent** — Receives the `Plan` and breaks it down into an ordered `TaskPlan` — a sequence of implementation steps, each mapped to a specific file path and task description
+- 💻 **Coder Agent** — A ReAct-style agent (`create_react_agent`) that iterates through each step in the `TaskPlan`, using file I/O tools (`read_file`, `write_file`, `list_files`) to write every file to disk
+- 🔄 **Conditional Loop** — The Coder node loops back to itself in the LangGraph state graph until all implementation steps are complete, then exits to `END`
+- 📁 **Output** — A fully structured project folder is generated (e.g. `index.html`, `style.css`, `app.js`) ready to open in the browser — no manual coding required
+- ⚡ **Powered by Groq** — Uses Groq's ultra-fast LLM inference API for near-instant agent responses across all three agents
+- 🧱 **Built with LangGraph** — The entire multi-agent pipeline is orchestrated as a directed state graph, giving full control over agent sequencing, looping, and state management
+
+
+
 ### Credit Management System
 Developed a comprehensive credit portfolio management system that optimizes customer credit limits and minimizes risk exposure. The system incorporates:
 - Multi-output regression and time series forecasting techniques
