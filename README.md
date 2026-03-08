@@ -1,6 +1,6 @@
 # Udaya Herath
 
-<p><strong>Associate Data Analyst | Machine Learning Engineer | Data Science Enthusiast</strong></p>
+<p><strong> Data Scientist | Credit Risk ML | AI Systems</strong></p>
 
 
 📍 Rajagiriya, Sri Lanka  
@@ -13,11 +13,15 @@
 ## 👋 About Me
 
 <p align="justify">
-I am a data science professional with a strong foundation in machine learning, predictive modeling, and business intelligence. With hands-on experience in building end-to-end data solutions—from ETL pipelines to AI-powered applications—I specialize in transforming complex data into actionable insights that drive business value.
+I am a Data Scientist specializing in credit risk modeling, distributed machine learning systems, and enterprise AI applications. I design and build end-to-end data solutions that transform complex financial and operational data into scalable analytical systems and decision-support tools.
 </p>
 
 <p align="justify">
-My expertise spans across developing credit management systems, building ML models for customer behavior prediction, and creating interactive dashboards that enhance decision-making. I'm passionate about leveraging cutting-edge technologies including LLMs, deep learning frameworks, and cloud platforms to solve real-world business challenges.
+My work focuses on developing production-grade ML pipelines, predictive models for customer behavior and risk assessment, and multi-agent AI systems powered by modern LLM frameworks. I have experience building distributed Spark pipelines, credit decision intelligence systems, and interactive analytics dashboards that support real business operations and strategic decision-making.
+</p>
+
+<p align="justify">
+I am particularly interested in the intersection of machine learning systems, AI agents, and scalable data platforms—where advanced models can be translated into reliable, high-impact applications used by organizations every day.
 </p>
 
 ---
