@@ -4,7 +4,7 @@
 
 
 📍 Rajagiriya, Sri Lanka  
-📧 udayakumaraherath8@gmail.com  
+📧 udaya.herath.ds@gmail.com  
 📱 +94 77 5641538  
 🔗 [LinkedIn](https://www.linkedin.com/in/udayakherath) | [GitHub](https://github.com/udayaKherath)
 
@@ -28,11 +28,17 @@ I am particularly interested in the intersection of machine learning systems, AI
 
 ## 🎓 Education
 
-**BSc (Hons) in Data Science**  
-*University of Peradeniya*  
-**January 2019 - January 2024**
-- GPA: 3.62
-- Second-Class Upper Division
+### MSc in Computer Science *(In Progress)*  
+**University of Colombo School of Computing (UCSC), Sri Lanka**  
+
+---
+
+### BSc (Hons) in Data Science  
+**University of Peradeniya, Sri Lanka**  
+January 2019 – January 2024  
+
+- **GPA:** 3.62 / 4.00  
+- **Degree Classification:** Second-Class Upper Division
 
 ---
 
