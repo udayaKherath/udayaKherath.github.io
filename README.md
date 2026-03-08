@@ -88,6 +88,8 @@ Developed an end-to-end automated competitive intelligence platform that transfo
 
 
 ### An AI-Powered Multi-Agent App Builder
+<p align ="justify">Developed an end-to-end multi-agent application builder that transforms natural language prompts into fully functional, ready-to-run web applications. The system combines a structured LangGraph agent pipeline with Groq-powered LLM inference to autonomously plan, architect, and code complete projects — eliminating the gap between idea and implementation.</p>
+
 ## 🤖 How It Works
 
 - 🗺️ **Planner Agent** — Takes the user's natural language prompt and produces a structured `Plan` (Pydantic schema) defining the project title, tech stack, and list of files to generate
