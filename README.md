@@ -13,16 +13,13 @@
 ## 👋 About Me
 
 <p align="justify">
-I am a Data Scientist specializing in credit risk modeling, distributed machine learning systems, and enterprise AI applications. I design and build end-to-end data solutions that transform complex financial and operational data into scalable analytical systems and decision-support tools.
-</p>
+I am a Data Scientist specializing in credit risk modeling, distributed machine learning systems, and enterprise AI applications. I design and build end-to-end data solutions that transform complex financial and operational data into scalable analytical systems and decision-support tools.</p>
 
 <p align="justify">
-My work focuses on developing production-grade ML pipelines, predictive models for customer behavior and risk assessment, and multi-agent AI systems powered by modern LLM frameworks. I have experience building distributed Spark pipelines, credit decision intelligence systems, and interactive analytics dashboards that support real business operations and strategic decision-making.
-</p>
+My work focuses on developing production-grade ML pipelines, predictive models for customer behavior and risk assessment, and multi-agent AI systems powered by modern LLM frameworks. I have experience building distributed Spark pipelines, credit decision intelligence systems, and interactive analytics dashboards that support real business operations and strategic decision-making.</p>
 
 <p align="justify">
-I am particularly interested in the intersection of machine learning systems, AI agents, and scalable data platforms—where advanced models can be translated into reliable, high-impact applications used by organizations every day.
-</p>
+I am particularly interested in the intersection of machine learning systems, AI agents, and scalable data platforms—where advanced models can be translated into reliable, high-impact applications used by organizations every day.</p>
 
 ---
 
