@@ -42,7 +42,7 @@ January 2019 – January 2024
 **Browns & Company PLC, Sri Lanka**  
 June 2024 – Present
 
-- <p align="justify">Re-architected a distributed **machine learning** pipeline on Microsoft Fabric using **PySpark**, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from **22+ hours to 13 minutes** for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.
+- <p align="justify">Re-architected a distributed <strong>machine learning</strong> pipeline on <strong>Microsoft Fabric</strong> using <strong>PySpark</strong>, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from <strong>22+ hours to 13 minutes</strong> for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.
 </p>
 
 - <p align="justify">Architected a **multi-agent AI credit decision system** combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.
