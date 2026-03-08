@@ -12,11 +12,11 @@
 
 ## 👋 About Me
 
--<p align="justify">I am a Data Scientist specializing in credit risk modeling, distributed machine learning systems, and enterprise AI applications. I design and build end-to-end data solutions that transform complex financial and operational data into scalable analytical systems and decision-support tools.</p>
+<p align="justify">I am a Data Scientist specializing in credit risk modeling, distributed machine learning systems, and enterprise AI applications. I design and build end-to-end data solutions that transform complex financial and operational data into scalable analytical systems and decision-support tools.</p>
 
--<p align="justify">My work focuses on developing production-grade ML pipelines, predictive models for customer behavior and risk assessment, and multi-agent AI systems powered by modern LLM frameworks. I have experience building distributed Spark pipelines, credit decision intelligence systems, and interactive analytics dashboards that support real business operations and strategic decision-making.</p>
+<p align="justify">My work focuses on developing production-grade ML pipelines, predictive models for customer behavior and risk assessment, and multi-agent AI systems powered by modern LLM frameworks. I have experience building distributed Spark pipelines, credit decision intelligence systems, and interactive analytics dashboards that support real business operations and strategic decision-making.</p>
 
--<p align="justify">I am particularly interested in the intersection of machine learning systems, AI agents, and scalable data platforms—where advanced models can be translated into reliable, high-impact applications used by organizations every day.</p>
+<p align="justify">I am particularly interested in the intersection of machine learning systems, AI agents, and scalable data platforms—where advanced models can be translated into reliable, high-impact applications used by organizations every day.</p>
 
 ---
 
@@ -42,24 +42,19 @@ January 2019 – January 2024
 **Browns & Company PLC, Sri Lanka**  
 June 2024 – Present
 
-- <p align="justify">
-Re-architected a distributed **machine learning pipeline on Microsoft Fabric using PySpark**, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from **22+ hours to 13 minutes** for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.
+- <p align="justify">Re-architected a distributed **machine learning pipeline on Microsoft Fabric using PySpark**, replacing driver-based orchestration with Spark-native parallel processing. Reduced runtime from **22+ hours to 13 minutes** for processing ~2M records across 15 divisions, enabling reliable daily production scheduling.
 </p>
 
-- <p align="justify">
-Architected a **multi-agent AI credit decision system** combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.
+- <p align="justify">Architected a **multi-agent AI credit decision system** combining machine learning, rule-based policy checks, and LLM agents. The system performs automated credit risk evaluation using behavioral features and DPD/PD scoring, generates policy-cited decision memos using RAG-enabled agents, and proposes optimized credit limits with human-in-the-loop validation.
 </p>
 
-- <p align="justify">
-Developed **invoice-level predictive models** to estimate customer payment timelines and delinquency risk using time-based validation to prevent data leakage. Applied domain-driven feature engineering using payment behavior, invoice characteristics, cheque return patterns, and settlement history.
+- <p align="justify">Developed **invoice-level predictive models** to estimate customer payment timelines and delinquency risk using time-based validation to prevent data leakage. Applied domain-driven feature engineering using payment behavior, invoice characteristics, cheque return patterns, and settlement history.
 </p>
 
-- <p align="justify">
-Built **credit risk analytics dashboards in Power BI** to monitor receivables exposure, non-performing debt, and early warning indicators, enabling finance leadership to track debtor performance and improve collections visibility across divisions.
+- <p align="justify">Built **credit risk analytics dashboards in Power BI** to monitor receivables exposure, non-performing debt, and early warning indicators, enabling finance leadership to track debtor performance and improve collections visibility across divisions.
 </p>
 
-- <p align="justify">
-Designed and optimized **T-SQL ETL pipelines** supporting sales analytics, receivables aging, settlement tracking, and credit risk reporting across enterprise data systems.
+- <p align="justify">Designed and optimized **T-SQL ETL pipelines** supporting sales analytics, receivables aging, settlement tracking, and credit risk reporting across enterprise data systems.
 </p>
 
 ---
