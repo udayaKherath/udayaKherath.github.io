@@ -87,7 +87,7 @@ Developed an end-to-end automated competitive intelligence platform that transfo
 ![Competitive Analysis System DB 1](/img/cas1.jpg)
 
 
-### App Builder (Multi-agent System)
+### An AI-Powered Multi-Agent App Builder
 ## 🤖 How It Works
 
 - 🗺️ **Planner Agent** — Takes the user's natural language prompt and produces a structured `Plan` (Pydantic schema) defining the project title, tech stack, and list of files to generate
@@ -98,7 +98,7 @@ Developed an end-to-end automated competitive intelligence platform that transfo
 - ⚡ **Powered by Groq** — Uses Groq's ultra-fast LLM inference API for near-instant agent responses across all three agents
 - 🧱 **Built with LangGraph** — The entire multi-agent pipeline is orchestrated as a directed state graph, giving full control over agent sequencing, looping, and state management
 
-
+![Competitive Analysis System DB 1](/img/cas2.jpg)
 
 ### Credit Management System
 Developed a comprehensive credit portfolio management system that optimizes customer credit limits and minimizes risk exposure. The system incorporates:
