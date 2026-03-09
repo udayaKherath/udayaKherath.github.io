@@ -161,7 +161,7 @@ Python | SQL | NoSQL | R
 
 ### Business Intelligence
 - **Tools:** Power BI, Excel
-- **Skills:** Data Visualization, Data Cleaning and Preprocessing
+- **Skills:** Data Visualization, Data Cleaning, and Preprocessing
 
 ### AI & NLP
 LangChain | LLMs (Google Gemini, GPT) | Hugging Face Transformers | FAISS | RAG Applications
@@ -175,7 +175,7 @@ GitHub | Git
 
 I'm always interested in discussing data science projects, collaboration opportunities, or just connecting with fellow data enthusiasts!
 
-- **Email:** udayakumaraherath8@gmail.com
+- **Email:** udaya.herath.ds@gmail.com
 - **LinkedIn:** [linkedin.com/in/udayakherath](https://www.linkedin.com/in/udayakherath)
 - **GitHub:** [github.com/udayaKherath](https://github.com/udayaKherath)
 - **Phone:** +94 77 5641538
